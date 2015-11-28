@@ -1,0 +1,6 @@
+{
+  extends: "eslint-config-lob",
+  rules: {
+    no-console: 0
+  }
+}
